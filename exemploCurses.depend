@@ -1,0 +1,1841 @@
+# depslib dependency file v1.0
+1650994221 source:c:\users\aluno\desktop\exemplocurses\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\firework.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\ozdemo.c
+	<signal.h>
+	<string.h>
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\ptest.c
+	<curses.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\rain.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\testcurs.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<curses.h>
+	<locale.h>
+	<wchar.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\tui.c
+	<ctype.h>
+	<curses.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tui.h"
+	<unistd.h>
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\demos\tui.h
+	<curses.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\tuidemo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"tui.h"
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\worm.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\demos\xmas.c
+	<curses.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\dos\pdcclip.c
+	"pdcdos.h"
+	<stdlib.h>
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\dos\pdcdos.h
+	<curspriv.h>
+	<string.h>
+	<dos.h>
+	<sys/movedata.h>
+	<dpmi.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\curspriv.h
+	<curses.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\panel.h
+	<curses.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\common\acsuni.h
+
+1642209065 c:\users\aluno\desktop\exemplocurses\pdcurses\common\acs437.h
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209065 source:c:\users\aluno\desktop\exemplocurses\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\common\acsuni.h
+
+1642209066 c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1653072515 source:c:\users\daniel\documents\dropbox\ongoing research\exemplocurses\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 c:\users\samuka\desktop\jogo\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\samuka\desktop\jogo\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\samuka\desktop\jogo\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\samuka\desktop\jogo\pdcurses\common\acsuni.h
+
+1642209066 c:\users\samuka\desktop\jogo\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogo\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1656062356 source:c:\users\samuka\desktop\jogo\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"graphics.h"
+	"game.h"
+
+1656062284 c:\users\samuka\desktop\jogo\game.h
+
+1656061555 source:c:\users\samuka\desktop\jogo\game.c
+	<string.h>
+	"game.h"
+
+1656046158 c:\users\samuka\desktop\jogo\graphics.h
+	<curses.h>
+
+1656046192 source:c:\users\samuka\desktop\jogo\graphics.c
+	<curses.h>
+	"graphics.h"
+
+1656046192 source:c:\users\samuka\desktop\jogov2\graphics.c
+	<curses.h>
+	"graphics.h"
+
+1642209066 c:\users\samuka\desktop\jogov2\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1656046158 c:\users\samuka\desktop\jogov2\graphics.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\samuka\desktop\jogov2\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\samuka\desktop\jogov2\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\samuka\desktop\jogov2\pdcurses\common\acsuni.h
+
+1642209066 c:\users\samuka\desktop\jogov2\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1656183500 source:c:\users\samuka\desktop\jogov2\game.c
+	<string.h>
+	"game.h"
+
+1656191521 c:\users\samuka\desktop\jogov2\game.h
+
+1656191405 source:c:\users\samuka\desktop\jogov2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"graphics.h"
+	"game.h"
+
+1656092313 source:c:\users\aluno\desktop\jogov2\game.c
+	<string.h>
+	"game.h"
+
+1656090751 c:\users\aluno\desktop\jogov2\game.h
+
+1656046192 source:c:\users\aluno\desktop\jogov2\graphics.c
+	<curses.h>
+	"graphics.h"
+
+1642209066 c:\users\aluno\desktop\jogov2\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1656046158 c:\users\aluno\desktop\jogov2\graphics.h
+	<curses.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\aluno\desktop\jogov2\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\aluno\desktop\jogov2\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\aluno\desktop\jogov2\pdcurses\common\acsuni.h
+
+1642209066 c:\users\aluno\desktop\jogov2\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\aluno\desktop\jogov2\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1656092286 source:c:\users\aluno\desktop\jogov2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"graphics.h"
+	"game.h"
+
+1656216852 source:c:\users\augusto barth\desktop\jogov2\game.c
+	<string.h>
+	"game.h"
+	<curses.h>
+
+1656192221 c:\users\augusto barth\desktop\jogov2\game.h
+
+1656046192 source:c:\users\augusto barth\desktop\jogov2\graphics.c
+	<curses.h>
+	"graphics.h"
+
+1642209066 c:\users\augusto barth\desktop\jogov2\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1656046158 c:\users\augusto barth\desktop\jogov2\graphics.h
+	<curses.h>
+
+1656216946 source:c:\users\augusto barth\desktop\jogov2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"graphics.h"
+	"game.h"
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\augusto barth\desktop\jogov2\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\augusto barth\desktop\jogov2\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\augusto barth\desktop\jogov2\pdcurses\common\acsuni.h
+
+1642209066 c:\users\augusto barth\desktop\jogov2\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\augusto barth\desktop\jogov2\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1656285731 source:c:\users\samuka\desktop\jogov2corrig\game.c
+	<string.h>
+	"game.h"
+	<curses.h>
+
+1656285731 c:\users\samuka\desktop\jogov2corrig\game.h
+
+1642209066 c:\users\samuka\desktop\jogov2corrig\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1656046192 source:c:\users\samuka\desktop\jogov2corrig\graphics.c
+	<curses.h>
+	"graphics.h"
+
+1656046158 c:\users\samuka\desktop\jogov2corrig\graphics.h
+	<curses.h>
+
+1656286905 source:c:\users\samuka\desktop\jogov2corrig\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"graphics.h"
+	"game.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\samuka\desktop\jogov2corrig\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\samuka\desktop\jogov2corrig\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\samuka\desktop\jogov2corrig\pdcurses\common\acsuni.h
+
+1642209066 c:\users\samuka\desktop\jogov2corrig\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogov2corrig\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1656046192 source:c:\users\samuka\desktop\jogojokenpo-v3\graphics.c
+	<curses.h>
+	"graphics.h"
+
+1642209066 c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1656046158 c:\users\samuka\desktop\jogojokenpo-v3\graphics.h
+	<curses.h>
+
+1656303664 source:c:\users\samuka\desktop\jogojokenpo-v3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"graphics.h"
+	"game.h"
+
+1656303650 c:\users\samuka\desktop\jogojokenpo-v3\game.h
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\common\acsuni.h
+
+1642209066 c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\common\acs437.h
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\users\samuka\desktop\jogojokenpo-v3\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1656303649 source:c:\users\samuka\desktop\jogojokenpo-v3\game.c
+	<string.h>
+	"game.h"
+	<curses.h>
+
